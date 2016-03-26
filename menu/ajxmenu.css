@@ -1,0 +1,13 @@
+/*
+ Ajatix Pure CSS Menu
+ Copyright (C) 2010 Ajatix. All rights reserved.
+ http://www.ajatix.com
+ Unregistered copy.
+ Any usage except for the purpose of evaluation is strictly prohibited.
+*/
+.AJXMenuCeGKRNA {position:relative;z-index:100;}
+.AJXMenuCeGKRNA ul {position:relative;float:left;margin:0;padding:0;list-style-type:none;border:1px solid #999999;background:#ffffff url(ajxmenu_files/menu-bg.gif) center center;}
+.AJXMenuCeGKRNA li {float:left;margin:0;}
+.AJXMenuCeGKRNA a {display:block;float:left;height:30px;white-space:nowrap;padding:0 11px 0 11px;font:11px/30px Verdana,Arial,Helvetica,sans-serif;text-decoration:none;text-align:left;color:#777777;}
+.AJXMenuCeGKRNA li:hover a,.AJXMenuCeGKRNA a:hover {color:#ffffff;background:#999999;}
+.AJXMenuCeGKRNA br {clear:both;height:0;font-size: 1px;line-height: 0px;}
